@@ -16,6 +16,7 @@ This account is where I'm putting the projects I want to make more public and po
 
 | Project | What It Shows |
 | --- | --- |
+| [`robotics-slam-playground`](https://github.com/VineethMakes/robotics-slam-playground) | C++/Python/TypeScript SLAM lab with lidar simulation, occupancy mapping, particle localization, scan matching, loop closures, and a browser replay |
 | [`edge-vision-lab`](https://github.com/VineethMakes/edge-vision-lab) | Rust-powered camera pipeline with calibration, motion heatmaps, tracking, latency metrics, and a browser demo |
 | [`car-telemetry-dashboard`](https://github.com/VineethMakes/car-telemetry-dashboard) | Rust-powered vehicle telemetry, diagnostics, trip metrics, and a browser dashboard |
 | [`home-digital-twin`](https://github.com/VineethMakes/home-digital-twin) | A Rust-powered 3D view of my home setup with live device state |
