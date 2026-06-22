@@ -1,6 +1,6 @@
 # Vineeth Makes
 
-I'm Vineeth. I like building things that connect software to the real world: home automation, robotics, car data, 3D prints, dashboards, and whatever else is useful enough to keep around.
+I'm Vineeth Velmurugan. I like building things that connect software to the real world: home automation, robotics, car data, 3D prints, dashboards, and whatever else is useful enough to keep around.
 
 This account is where I'm putting the projects I want to make more public and polished. Some of them are practical tools for my own setup, some are experiments, and some are just good excuses to learn the hardware/software pieces properly.
 
@@ -35,6 +35,6 @@ For each serious project, I want the repo to have:
 
 ## About
 
-Building under **Vineeth Makes**.
+I'm Vineeth Velmurugan, building under **Vineeth Makes**.
 
 Interests: robotics, home automation, 3D modeling, car telemetry, digital twins, computer vision, embedded systems.
