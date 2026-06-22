@@ -1,41 +1,40 @@
 # Vineeth Makes
 
-I build practical robotics, home automation, car telemetry, and 3D systems.
+I'm Vineeth. I like building things that connect software to the real world: home automation, robotics, car data, 3D prints, dashboards, and whatever else is useful enough to keep around.
 
-This GitHub is a public build log for projects that combine software, hardware, and spatial interfaces: digital twins, dashboards, embedded systems, computer vision, 3D-printable tools, and robotics control.
+This account is where I'm putting the projects I want to make more public and polished. Some of them are practical tools for my own setup, some are experiments, and some are just good excuses to learn the hardware/software pieces properly.
 
-## Current Focus
+## What I'm Working Toward
 
-- Home automation systems that are local-first, inspectable, and useful every day
-- 3D interfaces for real-world spaces, devices, and robots
-- Car telemetry dashboards for driving insights and maintenance
-- Robotics tools that connect simulation, controls, and physical hardware
-- Polished project writeups with demos, diagrams, and reproducible setup
+- Smarter home automation that is local-first and actually useful day to day
+- 3D interfaces for spaces, devices, and robots
+- Car telemetry dashboards for driving data, maintenance, and diagnostics
+- Robotics projects that connect simulation, controls, and real hardware
+- Better project writeups: demo first, then the architecture and tradeoffs
 
-## Featured Projects
+## Projects I Want To Build
 
 | Project | What It Shows |
 | --- | --- |
-| `home-digital-twin` | Three.js, IoT state, realtime UX, home automation |
-| `robot-arm-digital-twin` | Robotics controls, inverse kinematics, simulation UI |
-| `car-telemetry-dashboard` | OBD-II data, time-series analysis, driving insights |
-| `smart-garage-vision` | Computer vision, edge inference, practical automation |
-| `3d-printed-smart-desk` | CAD, 3D printing, embedded electronics, product thinking |
-| `portfolio` | Search-optimized project pages and technical writing |
+| `home-digital-twin` | A 3D view of my home setup with live device state |
+| `robot-arm-digital-twin` | A browser-based robot arm sim/control interface |
+| `car-telemetry-dashboard` | OBD-II or exported car data turned into useful insights |
+| `smart-garage-vision` | Computer vision for parking, clearance, and garage state |
+| `3d-printed-smart-desk` | Printable desk parts mixed with sensors, lights, and controls |
+| `portfolio` | A cleaner place to collect demos, photos, and project writeups |
 
-## Project Standard
+## How I'm Trying To Document Things
 
-Each serious project here should include:
+For each serious project, I want the repo to have:
 
-- A short demo video or GIF
-- A clean architecture diagram
-- Setup instructions that work from a fresh clone
-- Photos, screenshots, or 3D renders
-- A short engineering writeup: what worked, what changed, and what I would improve
+- A quick demo video, GIF, or screenshots
+- Setup notes that work from a fresh clone
+- Diagrams when the architecture is not obvious
+- Photos/renders when there is a physical or 3D component
+- A short writeup on what worked, what changed, and what I would do differently
 
 ## About
 
-I am Vineeth, building under **Vineeth Makes**.
+Building under **Vineeth Makes**.
 
-Keywords: Vineeth Makes, robotics, home automation, 3D modeling, car telemetry, digital twin, computer vision, embedded systems.
-
+Interests: robotics, home automation, 3D modeling, car telemetry, digital twins, computer vision, embedded systems.
