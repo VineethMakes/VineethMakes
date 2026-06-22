@@ -17,7 +17,7 @@ This account is where I'm putting the projects I want to make more public and po
 | Project | What It Shows |
 | --- | --- |
 | `home-digital-twin` | A 3D view of my home setup with live device state |
-| `robot-arm-digital-twin` | A browser-based robot arm sim/control interface |
+| [`robot-arm-digital-twin`](https://github.com/VineethMakes/robot-arm-digital-twin) | Rust-first robot arm simulator with inverse kinematics and a browser demo |
 | `car-telemetry-dashboard` | OBD-II or exported car data turned into useful insights |
 | `smart-garage-vision` | Computer vision for parking, clearance, and garage state |
 | `3d-printed-smart-desk` | Printable desk parts mixed with sensors, lights, and controls |
